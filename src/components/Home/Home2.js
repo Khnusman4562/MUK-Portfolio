@@ -40,8 +40,6 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <Projects />
-
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
