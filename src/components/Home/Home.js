@@ -42,6 +42,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
+      <Projects />
       <Home2 />
     </section>
   );
