@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Mohammed Usman </span>
             from <span className="purple"> Mumbai, India.</span>
             <br />
-            I am currently employed as a software developer at Hikmah Technologies.
+            I am currently employed as a software developer at <span className="purple">Hikmah Technologies.</span> 
             <br />
             I have completed Computer Science Engineering (CSE) From Mumbai University.
             <br />
